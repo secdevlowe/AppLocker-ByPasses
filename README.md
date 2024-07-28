@@ -5,3 +5,5 @@ Techniques used to bypass Microsoft Windows AppLocker Security application (http
 Included AppBlocker rules will cover the discussed bypass techniques and additional items from this information provided by Microsoft - https://docs.microsoft.com/nb-no/windows/security/threat-protection/device-guard/steps-to-deploy-windows-defender-application-control
 
 The provided AppLocker rules are not confirmed to be vetted/tested in a live environment. These rules can break things that you have deployed and use normally. The ruleset will block access/usability to PowerShell and Command Prompt.
+
+These rules can be found in separate .xml files within the AppBlocker-BlockPolicies folder. I am not responsibility for systems that do not work/break when utilizing the provided AppBlocker rules.
