@@ -1,9 +1,9 @@
 # AppLocker-ByPasses
 Techniques used to bypass Microsoft Windows AppLocker Security application (https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/applocker-overview).
 
-[Common-ApplockerByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/Common-AppLockerByPasses.md)
-[Confirmed-DefaultConfigByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/Confirmed-DefaultConfigByPasses.md)
-[DLLExecution-ByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/DLLExecution-ByPasses.md)
+* [Common-ApplockerByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/Common-AppLockerByPasses.md)
+* [Confirmed-DefaultConfigByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/Confirmed-DefaultConfigByPasses.md)
+* [DLLExecution-ByPasses](https://github.com/secdevlowe/AppLocker-ByPasses/blob/main/DLLExecution-ByPasses.md)
 
 # AppLocker-ByPasses-Patching/Hardening
 Included AppBlocker rules will cover the discussed bypass techniques and additional items from this information provided by Microsoft - https://docs.microsoft.com/nb-no/windows/security/threat-protection/device-guard/steps-to-deploy-windows-defender-application-control
